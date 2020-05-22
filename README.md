@@ -1,8 +1,5 @@
 # Links
 
-## Libs
-[Fluent Validation](https://github.com/FluentValidation/FluentValidation)
-
 ## REST API
 [REST API filter operator best practice](https://stackoverflow.com/questions/26104394/rest-api-filter-operator-best-practice)
 [UnitTest Fake HttpClient Response](https://www.davidbreyer.com/programming/2014/10/11/create-fake-responses-to-rest-service-calls-in-c/)
