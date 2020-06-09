@@ -1,9 +1,13 @@
 # Links
 
+## Kubernetes
+[Deployment strategies on kubernetes](https://itnext.io/application-deployment-strategies-on-kubernetes-e3f2f63e0f31)
+
 ## REST API
 [REST API filter operator best practice](https://stackoverflow.com/questions/26104394/rest-api-filter-operator-best-practice)
 [UnitTest Fake HttpClient Response](https://www.davidbreyer.com/programming/2014/10/11/create-fake-responses-to-rest-service-calls-in-c/)
 [UnitTest Controllers Web API](https://docs.microsoft.com/en-us/aspnet/web-api/overview/testing-and-debugging/unit-testing-controllers-in-web-api)
+
 ### Best Pratices
 [Api Standarts](https://github.com/WhiteHouse/api-standards)
 [Vinayshni - Best Pratices](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -34,3 +38,7 @@ http://www.devmedia.com.br/dados-abertos-no-elasticsearch-uma-aplicacao-pratica-
 [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 [Servidor de configuração](https://medium.com/codigorefinado/3-padr%C3%B5es-em-microservi%C3%A7os-servidor-de-configura%C3%A7%C3%A3o-2f89902d0314)
+
+
+## Polly
+[Reliable database connection](https://sergeyakopov.com/reliable-database-connections-and-commands-with-polly/)
