@@ -43,3 +43,6 @@ http://yuserinterface.com/dev/2013/01/08/how-to-schedule-delay-messages-with-rab
 
 ## Polly
 [Reliable database connection](https://sergeyakopov.com/reliable-database-connections-and-commands-with-polly/)
+
+## UX
+[Design Tables](https://www.mobilespoon.net/2019/11/design-ui-tables-20-rules-guide.html)
